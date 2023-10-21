@@ -1,7 +1,7 @@
 # Sitio En Mantenimiento
 
 ¿Su Página web está en Construcción? 
-- plantilla responsiva y animada
+- plantilla animada
 
 ## 🚀 Tecnología
 
