@@ -1,8 +1,14 @@
-# SitioEnMantenimiento
+# Sitio En Mantenimiento
 
-¿Su Página web está en Construcción? plantilla responsiva y animada
-está construida con tecnologías HTML5, CSS3 y JAVASCRIPT
+¿Su Página web está en Construcción? 
+- plantilla responsiva y animada
 
- Sitio en mantenimiento dinamico
+## 🚀 Tecnología
+
+- HTML5
+- CSS3 y (Bootstrap)
+- JAVASCRIPT 
+
+ ## ✋🏻 Sitio en mantenimiento dinamico
 
 ![Home](https://github.com/ingkilber/SitioEnMantenimiento/blob/main/img/enConstruccion.png)
