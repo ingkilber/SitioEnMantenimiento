@@ -9,6 +9,6 @@
 - CSS3 y (Bootstrap)
 - JAVASCRIPT 
 
- ## ✋🏻 Sitio en mantenimiento dinamico
+ ## ✋🏻 Sitio en mantenimiento dinámico
 
 ![Home](https://github.com/ingkilber/SitioEnMantenimiento/blob/main/img/enConstruccion.png)
